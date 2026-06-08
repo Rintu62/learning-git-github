@@ -86,5 +86,7 @@ learning-git-github/
 <img width="1012" height="990" alt="Screenshot 2026-06-08 171832" src="https://github.com/user-attachments/assets/60114370-506a-4a28-bbd3-3a18d7580213" />
 
 
+![page1 alt](https://github.com/Rintu62/learning-git-github/blob/e7cf48478df17974dc10d41209d1c2657bd9a23d/page1.png)
+
 
 
