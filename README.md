@@ -2,8 +2,6 @@
 Author - Rigu
 <br>
 
-![image alt](https://github.com/Rintu62/learning-git-github/blob/8494567ac4470d4f7277a01ba96bedd85f054327/images/page1.png)
-
 A complete beginner-friendly repository for learning Git, GitHub, and Version Control.
 
 ```text
@@ -89,5 +87,5 @@ learning-git-github/
     └── collaboration-example.txt
 ```
 
-
+![image alt](https://github.com/Rintu62/learning-git-github/blob/8494567ac4470d4f7277a01ba96bedd85f054327/images/page1.png)
 
