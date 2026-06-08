@@ -53,7 +53,9 @@ learning-git-github/
 ├── README.md
 ├── Git_Cheat_Sheet.pdf
 ├── index.html
-│
+├──page1.png
+├──page2.png
+│ 
 ├── notes/
 │   ├── 01-git-introduction.md
 │   ├── 02-github-introduction.md
