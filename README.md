@@ -4,6 +4,7 @@ Author - Rigu
 
 A complete beginner-friendly repository for learning Git, GitHub, and Version Control.
 
+```text
 Git-Cheat-Sheet/
 │
 ├── 📄 Git_Cheat_Sheet.pdf
