@@ -87,10 +87,7 @@ learning-git-github/
     ├── basic-workflow.txt
     ├── branching-example.txt
     └── collaboration-example.txt
+```
 
 
-## Git Cheat Sheet
 
-![Page 1](images/page1.png)
-
-![Page 2](images/pgae2.png)
