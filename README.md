@@ -87,6 +87,7 @@ learning-git-github/
 
 
 ![page1 alt](https://github.com/Rintu62/learning-git-github/blob/e7cf48478df17974dc10d41209d1c2657bd9a23d/page1.png)
-
+![Git Cheat Sheet](./page1.png)
+![Git Cheat Sheet](page1.png)
 
 
