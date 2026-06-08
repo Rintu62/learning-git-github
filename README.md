@@ -83,11 +83,8 @@ learning-git-github/
     ├── basic-workflow.txt
     ├── branching-example.txt
     └── collaboration-example.txt
+<img width="1012" height="990" alt="Screenshot 2026-06-08 171832" src="https://github.com/user-attachments/assets/60114370-506a-4a28-bbd3-3a18d7580213" />
 
-<img width="1226" height="1300" alt="image" src="https://github.com/user-attachments/assets/aa816c2d-2a8e-4d0d-84a1-c0d1dee78ec1" />
-
-
-![image alt](https://github.com/Rintu62/learning-git-github/blob/c4cac987bac9e356e21a1456a413d09e9c40cd55/page1.png)
 
 
 
