@@ -3,6 +3,7 @@ Author - Rigu
 <br>
 
 A complete beginner-friendly repository for learning Git, GitHub, and Version Control.
+---> images are below.
 
 ```text
 Git-Cheat-Sheet/
@@ -88,4 +89,5 @@ learning-git-github/
 ```
 
 ![image alt](https://github.com/Rintu62/learning-git-github/blob/8494567ac4470d4f7277a01ba96bedd85f054327/images/page1.png)
+![image alt](https://github.com/Rintu62/learning-git-github/blob/7a0c8021621f9eeb1862cb44563e6d0b8f201b2a/images/page2.png)
 
