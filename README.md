@@ -1,4 +1,4 @@
-# learning-git-github
+# learning-git-github - with cheat sheet
 Author - Rigu
 <br>
 
