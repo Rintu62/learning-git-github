@@ -1,5 +1,5 @@
 # learning-git-github - with cheat sheet
-Author - Rigu
+# Author - Rigu
 <br>
 
 A complete beginner-friendly repository for learning Git, GitHub, and Version Control.
