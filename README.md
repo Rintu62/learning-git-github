@@ -1,7 +1,7 @@
 # learning-git-github - with cheat sheet
 # Author - Rigu
 <br>
-
+this is the basic
 A complete beginner-friendly repository for learning Git, GitHub, and Version Control.
 ---> images are below.
 
